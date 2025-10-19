@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tesla338official.github.io/tesla338com.github.io/sitemap.xml
